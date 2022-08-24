@@ -1,0 +1,19 @@
+.gradle
+/build/
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+/out/
+
+### Visual Studio Code
+/bin/
+.vscode
+
+# Terraform
+.terraform*/
+
+# Ignore Gradle build output directory
+build
